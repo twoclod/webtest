@@ -1,0 +1,15 @@
+@font-face{
+	font-family: "Emblema one";
+	src: url("EmblemaOne-Regular.woff"),
+		 url("EmblemaOne-Regular.ttf");
+}
+body{
+	font-size: small;
+}
+h1{
+	font-family: "Emblema one",sans-serif;
+	font-size: 220%;
+}
+h2{
+	font-size: 130%;
+}
